@@ -14,7 +14,7 @@ padding-left.px: 42
 
 -- ftd.text: EZMED
 region: h1
-color: #407be9
+color: #3889FD
 
 -- end: ftd.row
 
@@ -26,21 +26,21 @@ color: white
 
 -- ftd.text: Home
 region: h2
-color: blue
-style: bold
-link: /index
-
--- ftd.text: Contact us
-region: h2
 color: white
 style: bold
-link: /Contact
+link: /EZMED/index
 
 -- ftd.text: About
 region: h2
 color: white
 style: bold
-link: /About
+link: /EZMED/About
+
+-- ftd.text: Contact us
+region: h2
+color: white
+style: bold
+link: /EZMED/Contact
 
 -- end: ftd.row
 -- end: ftd.row

@@ -1,0 +1,87 @@
+-- ftd.column:
+background.solid: #130c30
+width: fill-container
+height: fill-container
+
+;; ------------------------------------------------------------------------------
+
+-- ftd.row:
+spacing.fixed.px: 750
+
+-- ftd.row:
+padding.px: 36
+padding-left.px: 42
+
+-- ftd.text: EZMED
+region: h1
+color: #407be9
+
+-- end: ftd.row
+
+-- ftd.row:
+padding.px: 25
+padding-top.px: 31
+spacing.fixed.px: 30
+color: white
+
+-- ftd.text: Home
+region: h2
+color: blue
+style: bold
+link: /index
+
+-- ftd.text: Contact us
+region: h2
+color: white
+style: bold
+link: /Contact
+
+-- ftd.text: About
+region: h2
+color: white
+style: bold
+link: /About
+
+-- end: ftd.row
+-- end: ftd.row
+
+;; --------------------------------------------------------------------------------
+
+
+-- ftd.column:
+color: #fff
+padding.px: 42
+spacing.fixed.px: 25
+border-width.px: 5
+
+-- ftd.column:
+
+-- ftd.text:  EZMED is an innovative AI-based medical chatbot designed to enhance the healthcare experience for patients and healthcare providers alike. Leveraging cutting-edge artificial intelligence and natural language processing technologies, EZMED serves as a virtual healthcare assistant, providing users with quick and reliable medical information, assistance with healthcare-related tasks, and personalized support.
+region: h3
+
+-- end: ftd.column
+-- ftd.column:
+spacing.fixed.px: 10
+-- ftd.column:
+
+-- ftd.text: Key features of EZMED include:
+region: h2
+
+-- end: ftd.column
+
+-- ftd.column:
+
+-- ftd.text: EZMED can analyze and interpret user-inputted symptoms, helping individuals understand potential health issues and guiding them towards appropriate next steps, such as seeking medical attention or home remedies. The chatbot offers access to a vast database of medical knowledge, offering detailed explanations about diseases, conditions, medications, and treatment options. It can help users understand their health concerns better. Medication Reminders:` The chatbot helps patients stay on top of their medication regimens by sending timely reminders, reducing the risk of missed doses and improving medication adherence. EZMED offers personalized health tips and advice based on individual health profiles, helping users make informed decisions about their lifestyle and well-being. EZMED prioritizes user data privacy and complies with all relevant healthcare data regulations, ensuring that sensitive medical information is protected. EZMED's user-friendly interface makes it accessible to individuals of all ages, fostering better health literacy and empowering patients to take a proactive approach to their well-being. Whether it's answering medical queries, scheduling appointments, or promoting healthier living, EZMED is revolutionizing the healthcare landscape by harnessing the power of artificial intelligence to provide convenient, accurate, and personalized healthcare support.
+region: h3
+
+-- end: ftd.column
+-- end: ftd.column
+-- end: ftd.column
+
+-- ftd.text: Thank you for visiting our website.
+color: #eee
+region: h3
+padding-top.px: 100
+padding-left.px: 465
+
+-- end: ftd.column

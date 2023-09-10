@@ -1,0 +1,169 @@
+-- ftd.column:
+background.solid: #130c39
+width: fill-container
+height: fill-container
+
+;; ------------------------------------------------------------------------------
+
+-- ftd.row:
+spacing.fixed.px: 750
+
+-- ftd.row:
+padding.px: 36
+padding-left.px: 42
+
+-- ftd.text: EZMED
+region: h1
+color: #407be9
+
+-- end: ftd.row
+
+-- ftd.row:
+padding.px: 25
+padding-top.px: 31
+spacing.fixed.px: 30
+color: white
+
+-- ftd.text: Home
+region: h2
+color: blue
+style: bold
+link: /index
+
+-- ftd.text: Contact us
+region: h2
+color: white
+style: bold
+link: /Contact
+
+-- ftd.text: About
+region: h2
+color: white
+style: bold
+link: /About
+
+-- end: ftd.row
+-- end: ftd.row
+
+;; --------------------------------------------------------------------------------
+
+-- ftd.row:
+padding.px: 25
+-- ftd.row:
+padding-left.px: 110
+padding-right.px: 290
+
+-- ftd.image: SAYAK.png
+link: https://www.linkedin.com/in/sayak-bhunia-452419252/
+alt: SAYAK BHUNIA
+width.fixed.px: 215
+height.fixed.px: 200
+
+-- end: ftd.row
+
+-- ftd.row:
+padding-left.px: 275
+padding-right.px: 10
+
+-- ftd.image: SAKET.png
+link: https://www.linkedin.com/in/saket-srivastava-8776a025a/
+alt: SAKET SRIVASTAVA
+width.fixed.px: 215
+height.fixed.px: 200
+
+-- end: ftd.row
+-- end: ftd.row
+
+-- ftd.row:
+padding.px: 8
+spacing.fixed.px: 560
+-- ftd.column:
+padding-left.px: 130
+
+-- ftd.text: SAYAK BHUNIA
+padding-left.px: 15
+color: #eee
+region: h2
+
+-- ftd.row:
+padding-top.px: 10
+spacing.fixed.px: 40
+
+-- ftd.text: Email
+link: mailto:sbhunia2903@gmail.com
+border-width.px: 3
+padding.px: 17
+border-radius.px: 8
+color: white
+background.solid: #407bd8
+border-color: #407bd8
+padding-top.px: 8
+padding-bottom.px: 8
+padding-left.px: 16
+padding-right.px: 16
+
+-- ftd.text: LinkedIn
+link: https://www.linkedin.com/in/sayak-bhunia-452419252/
+border-width.px: 3
+padding.px: 17
+border-radius.px: 8
+color: white
+background.solid: #407bd8
+border-color: #407bd8
+padding-top.px: 8
+padding-bottom.px: 8
+padding-left.px: 16
+padding-right.px: 16
+
+-- end: ftd.row
+
+-- end: ftd.column
+-- ftd.column:
+
+-- ftd.text: SAKET SRIVASTAVA
+color: #eee
+region: h2
+
+-- ftd.row:
+padding-top.px: 10
+spacing.fixed.px: 40
+
+-- ftd.text: Email
+link: mailto:saketsrivastava1245@gmail.com
+border-width.px: 3
+padding.px: 17
+border-radius.px: 8
+color: white
+background.solid: #407bd8
+border-color: #407bd8
+padding-top.px: 8
+padding-bottom.px: 8
+padding-left.px: 16
+padding-right.px: 16
+
+-- ftd.text: LinkedIn
+link: https://www.linkedin.com/in/saket-srivastava-8776a025a/
+border-width.px: 3
+padding.px: 17
+border-radius.px: 8
+color: white
+background.solid: #407bd8
+border-color: #407bd8
+padding-top.px: 8
+padding-bottom.px: 8
+padding-left.px: 16
+padding-right.px: 16
+
+-- end: ftd.row
+
+
+-- end: ftd.column
+-- end: ftd.row
+
+-- ftd.text: Thank you for visiting our website.
+color: #eee
+region: h3
+padding-top.px: 100
+padding-left.px: 465
+
+-- end: ftd.column

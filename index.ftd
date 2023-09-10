@@ -1,0 +1,106 @@
+-- ftd.column:
+background.solid: #130c39
+width: fill-container
+height: fill-container
+
+;; ------------------------------------------------------------------------------
+
+-- ftd.row:
+spacing.fixed.px: 750
+
+-- ftd.row:
+padding.px: 36
+padding-left.px: 42
+
+-- ftd.text: EZMED
+region: h1
+color: #3889FD
+
+-- end: ftd.row
+
+-- ftd.row:
+padding.px: 25
+padding-top.px: 31
+spacing.fixed.px: 30
+color: white
+
+-- ftd.text: Home
+region: h2
+color: white
+style: bold
+link: /index
+
+-- ftd.text: Contact us
+region: h2
+color: white
+style: bold
+link: /Contact
+
+-- ftd.text: About
+region: h2
+color: white
+style: bold
+link: /About
+
+-- end: ftd.row
+-- end: ftd.row
+
+;; --------------------------------------------------------------------------------
+
+
+;; --------------------------------------------------------------------------------
+
+-- ftd.row:
+spacing.fixed.px: 199
+
+-- ftd.row:
+padding-top.px: 180
+padding-left.px: 50
+
+-- ftd.column:
+color: #eee
+spacing.fixed.px: 15
+-- ftd.column:
+
+-- ftd.text: Get instant medical consultation, connecting you with nearby doctors through AI magic.
+region: h1
+-- end: ftd.column
+-- ftd.column:
+
+-- ftd.text: Medical consultation made easy.
+region: h2
+-- end: ftd.column
+-- ftd.column:
+
+-- ftd.text: Consult
+border-width.px: 3
+border-radius.px: 10
+color: white
+background.solid: #453FFB
+border-color: #453FFB
+padding-top.px: 10
+padding-bottom.px: 10
+padding-left.px: 16
+padding-right.px: 16
+link: https://www.chatbase.co/chatbot-iframe/KWU1k4xqGta8d0cWOtcvx
+
+-- end: ftd.column
+
+-- end: ftd.column
+
+-- end: ftd.row
+
+-- ftd.row:
+padding.px: 20
+
+-- ftd.image: image.png
+width.fixed.px: 450
+height.fixed.px: 445
+padding-right.px: 25
+padding-top.px: 35
+-- end: ftd.row
+-- end: ftd.row
+
+;; ---------------------------------------------------------------------------------
+
+-- end: ftd.column
